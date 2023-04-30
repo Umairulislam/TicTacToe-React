@@ -4,7 +4,7 @@ This is a simple Tic Tac Toe game built with React.The app uses React's built-in
 
 # App Interface
 
-![TicTacToe](https://user-images.githubusercontent.com/64442665/235348781-8573c71a-7ca7-4ea1-b2e8-1783610f8ce4.png)
+![TicTacToe](https://user-images.githubusercontent.com/64442665/235348818-4d471a7d-a3c8-44aa-85d0-ab3daf005b0a.png)
 
 ## How to play
 
