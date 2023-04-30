@@ -2,6 +2,10 @@
 
 This is a simple Tic Tac Toe game built with React.The app uses React's built-in `useState` and `useEffect` hooks to manage the state of the game board and handle side effects such as updating the winner and displaying the moves in the game history.
 
+# App Interface
+
+![TicTacToe](https://user-images.githubusercontent.com/64442665/235348781-8573c71a-7ca7-4ea1-b2e8-1783610f8ce4.png)
+
 ## How to play
 
 To play the game, simply click on any empty square to make a move. The first player is "X" and the second player is "O". The game ends when one player has three in a row or there are no more empty squares, resulting in a draw. You can also go back to any previous move and continue the game from there.
