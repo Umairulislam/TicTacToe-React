@@ -2,12 +2,12 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^1.1.5"
   },
   "main": "/index.js",
   "devDependencies": {
     "prettier": "^2.8.8",
-    "react-scripts": "1.0.0"
+    "react-scripts": "1.1.5"
   },
   "name": "ljg0t8",
   "description": null,
